@@ -14,3 +14,5 @@
 > 
 > But there's a large gap between 5600X (299$) and 5800X (449$) price points. Something is clearly missing in between. Would be nice to see a 65W 5700X 8-core model.
 * How to add an M.2 SSD to a PS5 console: https://www.playstation.com/en-us/support/hardware/ps5-install-m2-ssd/
+* GeForce RTX 30 Series Performance Accelerates With Resizable BAR Support: https://www.nvidia.com/en-us/geforce/news/geforce-rtx-30-series-resizable-bar-support/
+> To successfully activate Resizable BAR on a desktop PC, please follow these steps in order, referring to the expanded installation instructions below
