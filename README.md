@@ -16,3 +16,5 @@
 * How to add an M.2 SSD to a PS5 console: https://www.playstation.com/en-us/support/hardware/ps5-install-m2-ssd/
 * GeForce RTX 30 Series Performance Accelerates With Resizable BAR Support: https://www.nvidia.com/en-us/geforce/news/geforce-rtx-30-series-resizable-bar-support/
 > To successfully activate Resizable BAR on a desktop PC, please follow these steps in order, referring to the expanded installation instructions below
+* Optimizing DX12 Resource Uploads to the GPU Using CPU-Visible VRAM: https://developer.nvidia.com/blog/optimizing-dx12-resource-uploads-to-the-gpu-using-cpu-visible-vram/
+> More than 256 MB for NVIDIA RTX 30xx GPUs with Windows 10 or 11 with Resizable BAR reported as Yes in the NVIDIA Control Panel.
