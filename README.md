@@ -18,3 +18,5 @@
 > To successfully activate Resizable BAR on a desktop PC, please follow these steps in order, referring to the expanded installation instructions below
 * Optimizing DX12 Resource Uploads to the GPU Using CPU-Visible VRAM: https://developer.nvidia.com/blog/optimizing-dx12-resource-uploads-to-the-gpu-using-cpu-visible-vram/
 > More than 256 MB for NVIDIA RTX 30xx GPUs with Windows 10 or 11 with Resizable BAR reported as Yes in the NVIDIA Control Panel.
+* https://twitter.com/SebAaltonen/status/1435223392257466372
+> 64 cores with 64 GB of RAM is too little. Need at least 128 GB for a setup like that, while 256 GB is recommended (2 GB per thread).
