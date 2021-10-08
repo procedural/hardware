@@ -22,3 +22,4 @@
 > 64 cores with 64 GB of RAM is too little. Need at least 128 GB for a setup like that, while 256 GB is recommended (2 GB per thread).
 * Intel® Evo™ Platform Revealed: Delivering the Best Laptops for Getting Things Done: https://newsroom.intel.com/wp-content/uploads/sites/11/2020/09/Intel-Evo-Fact-Sheet.pdf
 * Seconds Matter: Get Productive Faster with Intel Evo vs. M1-based MacBook: https://www.intel.com/content/www/us/en/products/performance/gopc/evo-vs-m1-based-macbook.html
+* ECC memory: https://www.realworldtech.com/forum/?threadid=198497&curpostid=198647
