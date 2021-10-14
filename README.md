@@ -23,3 +23,5 @@
 * Intel® Evo™ Platform Revealed: Delivering the Best Laptops for Getting Things Done: https://newsroom.intel.com/wp-content/uploads/sites/11/2020/09/Intel-Evo-Fact-Sheet.pdf
 * Seconds Matter: Get Productive Faster with Intel Evo vs. M1-based MacBook: https://www.intel.com/content/www/us/en/products/performance/gopc/evo-vs-m1-based-macbook.html
 * ECC memory: https://www.realworldtech.com/forum/?threadid=198497&curpostid=198647
+* New PS5 Feature Will End (Adjust HDR) Confusion, But only on Sony TVs: https://www.youtube.com/watch?v=UJrWSuREBCo
+* Sony introduces "Perfect for PlayStation 5" for BRAVIA XR TVs: https://www.sony.eu/presscentre/news/sony-introduces-perfect-for-playstation5-for-bravia-xr-tvs
