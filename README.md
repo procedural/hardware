@@ -25,3 +25,5 @@
 * ECC memory: https://www.realworldtech.com/forum/?threadid=198497&curpostid=198647
 * New PS5 Feature Will End (Adjust HDR) Confusion, But only on Sony TVs: https://www.youtube.com/watch?v=UJrWSuREBCo
 * Sony introduces "Perfect for PlayStation 5" for BRAVIA XR TVs: https://www.sony.eu/presscentre/news/sony-introduces-perfect-for-playstation5-for-bravia-xr-tvs
+* https://www.nvidia.com/en-us/geforce/news/red-dead-redemption-2-pc-nvidia-recommended-gpus/
+> Starting with 1920x1080, the most popular gaming resolution, and using High settings, our testing revealed that the GeForce RTX 2060 was ideal for 60+ FPS 1920x1080 gameplay.
