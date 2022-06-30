@@ -28,3 +28,4 @@
 * https://www.nvidia.com/en-us/geforce/news/red-dead-redemption-2-pc-nvidia-recommended-gpus/
 > Starting with 1920x1080, the most popular gaming resolution, and using High settings, our testing revealed that the GeForce RTX 2060 was ideal for 60+ FPS 1920x1080 gameplay.
 * DDR5 Ram Prices Crashed By 20% In May Alone: https://tech4gamers.com/ddr5-memory-prices/
+* Stop your Samsung NVMe SSD from Overheating and Thermal Throttling: https://www.youtube.com/watch?v=I8Z09nU554Q
